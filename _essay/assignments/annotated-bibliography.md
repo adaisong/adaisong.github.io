@@ -39,7 +39,8 @@ Drott situates music streaming within broader economic transformations, examinin
 10. Pelly, Liz. Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist. Atria/One Signal Publishers, 2025.
 Pelly investigates Spotify's influence on musical labor, playlist culture, and listening experiences through a journalistic examination of the streaming industry. Her account raises questions about how platform business models shape musical production and the conditions under which artists work. I selected this book because it connects technological infrastructure with the lived consequences of platform-driven music economies. It complements Drott’s book with a micro-level perspective. My research could investigate whether producers internalize assumptions about playlist compatibility or algorithmic performance when composing and arranging tracks. A limitation is that its investigative journalistic methodology differs from academic ethnography, and its Spotify-centered perspective may not translate directly to Chinese platforms such as QQ Music or NetEase Cloud Music.
 
-Rationale for Source Selection and Discovery
+**
+Rationale for Source Selection and Discovery**
 
 I organized this bibliography into three areas based on my developing dissertation project, Who Decides What Music Sounds Like? Tracing Mediated Musical Decisions among Women Producers in China and the United States: gender and music production, music software and digital sound, and platforms and algorithms.
 
