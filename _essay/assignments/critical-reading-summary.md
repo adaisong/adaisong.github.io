@@ -1,10 +1,8 @@
 ---
-title: Critical Reading Summary
+title: Summary on the September 29 Readings on Critical Making
 order: 2
 part: Assignments
 ---
-Summary on the September 29 readings on critical making
-
 All three readings raise a fundamental question about digital humanities: what makes the act of creating something a meaningful form of scholarship? Traditionally, humanities research has been associated with reading, interpretation, and writing. Digital humanities, however, has increasingly challenged this distinction by treating the production of digital objects as a way of generating knowledge. David Staley's “On the ‘Maker Turn’ in the Humanities,” Jeremy Boggs, Jennifer Reed, and J. K. Purdom Lindblad's “Making It Matter,” and Emily Johnson and Anastasia Salter's chapters “Map” and “Generation” offer different perspectives on this shift. But collectively they suggest that making can become a scholarly practice, but its value depends on how we interpret, question, and take responsibility for what we create.
 
 In “On the ‘Maker Turn’ in the Humanities,” Staley (2017) challenges the assumption and tradition that scholarly arguments must primarily take the form of written texts. He considers how visual and digital forms can function as modes of interpretation rather than merely illustrating conclusions reached through conventional writing. The VideoWall where he juxtaposes text on screens instead of images, delivers an interesting message: the words on the screens are themselves a delivery of knowledge, and yet that’s not all of it. The way they’re presented through those screens, the arrangement of the screens, and the presentation of them as if they were visual products make the wall itself a way of thinking. It suggests that patterns themselves can communicate scholarly arguments. From this perspective, creating a digital object is not necessarily separate from thinking; the process of designing and constructing it may constitute an intellectual contribution.
