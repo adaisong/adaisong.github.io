@@ -38,9 +38,8 @@ defaults:
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
-# path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: https://adaisong.github.io/
+url: "https://adaisong.github.io"
+baseurl: ""
 # location of code, the full url to your github repository
 source-code: https://github.com/adaisong/adaisong.github.io
 
