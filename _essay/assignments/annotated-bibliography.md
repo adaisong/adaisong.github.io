@@ -3,8 +3,8 @@ title: Annotated Bibliography
 order: 6
 part: Assignments
 ---
-Tracing Musical Decisions in Digital Music Production
-Research Focus: Music Software, Platforms, Gender, and Creative Agency in Contemporary Music Production
+## Tracing Musical Decisions in Digital Music Production
+# Research Focus: Music Software, Platforms, Gender, and Creative Agency in Contemporary Music Production
 
 I Software, Sampling, and Digital Sound
 1. Arrieta, Alexandria. “Splice and the Platformization of Hip Hop Production: Navigating the Online Music Platform for Royalty-Free Samples.” Global Hip Hop Studies 2, no. 2 (2021): 219–236. https://doi.org/10.1386/ghhs_00045_1.
